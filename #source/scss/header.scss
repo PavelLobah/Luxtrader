@@ -155,7 +155,7 @@
       z-index: 2;
       padding: 0px 0px 0px 30px;
       @extend .menu__link;
-      background: url("../../img/icons/globe.png") left no-repeat;
+      background: url("../img/icons/globe.png") left no-repeat;
       line-height: 18px;
       min-width: 18px;
       min-height: 18px;
@@ -219,19 +219,19 @@
       display: inline-block;
       line-height: 18px;
       &_1 {
-         background: url("../../img/icons/menu/01.png") 1px center no-repeat;
+         background: url("../img/icons/menu/01.png") 1px center no-repeat;
       }
 
       &_2 {
-         background: url("../../img/icons/menu/02.png") left center no-repeat;
+         background: url("../img/icons/menu/02.png") left center no-repeat;
       }
 
       &_3 {
-         background: url("../../img/icons/menu/03.png") 4px center no-repeat;
+         background: url("../img/icons/menu/03.png") 4px center no-repeat;
       }
 
       &_4 {
-         background: url("../../img/icons/menu/04.png") left center no-repeat;
+         background: url("../img/icons/menu/04.png") left center no-repeat;
       }
       @media (min-width: 992px) {
          &:hover {
